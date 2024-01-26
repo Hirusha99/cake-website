@@ -1,0 +1,24 @@
+.body{
+   padding: 20px;
+}
+
+h1{
+    padding-top: 20px;
+align-items: center;
+color: #AD1457;
+}
+
+.img{
+    height: 1100px;
+    width : 750px;
+   padding-right: 20px;
+   padding-top: 5px;
+}
+
+.pos{
+   
+        position: relative;
+        top: 2px; /* Adjust the value as needed */
+        left: 300px; /* Adjust the value as needed */
+        text-align: justify;
+}

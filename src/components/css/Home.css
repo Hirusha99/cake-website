@@ -1,0 +1,12 @@
+.custom-spacing {
+    line-height: 1.5; /* Adjust line height for custom spacing */
+    margin-top: 460px; /* Adjust top margin */
+    margin-bottom: 20px; /* Adjust bottom margin */
+    padding-left: 100px; /* Adjust left padding */
+    padding-right: 10px; /* Adjust right padding */
+    
+  }
+
+  .fsize{
+    font-size: 100px;
+  }

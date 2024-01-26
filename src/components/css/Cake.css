@@ -1,0 +1,28 @@
+.align{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+
+.heading{
+    padding-top: 100px;
+}
+
+.delivary{
+    background-color: #FFC0CB;
+    padding: 10px;
+    
+}
+
+.icons{
+    
+    padding: 30px;
+    padding-top: 50px;
+}
+.fontcc{
+    color: #AD1457;
+}
+
+.botton{
+    padding-bottom: 50px;
+}
